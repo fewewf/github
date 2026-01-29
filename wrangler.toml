@@ -1,4 +1,4 @@
-name = "githubfd"
+name = "github"
 main = "_worker.js"
 compatibility_date = "2026-01-29"
 keep_vars = true
